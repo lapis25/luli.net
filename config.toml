@@ -3,6 +3,5 @@ languageCode = "ja-jp"
 title = "LAPISLAZULI HILL"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-[params]
-    disqusShortname = "luli-net"
+disqusShortname = "luli-net"
 
